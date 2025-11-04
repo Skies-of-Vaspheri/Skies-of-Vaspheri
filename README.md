@@ -11,6 +11,10 @@ Though, outside the technical world, I also have skills in academic and creative
 
 ### Miscellany
 Outside of CS, I also have a longstanding interest astronomy and worldbuilding!
+
+### Elsewhere
+You can find me on LinkedIn [HERE](https://www.linkedin.com/in/scott-stonehocker-7a3a29386/)
+
 <!--
 **Skies-of-Vaspheri/Skies-of-Vaspheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
